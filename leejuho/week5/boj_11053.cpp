@@ -3,6 +3,7 @@
 #include <algorithm>
 #include <limits.h>
 #include <string>
+#include <cstring>
 using namespace std;
 
 int main() {
