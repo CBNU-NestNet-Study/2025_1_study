@@ -4,6 +4,7 @@
 #include <limits.h>
 #include <string>
 #include <cstring>
+#include <cmath>
 using namespace std;
 
 int main() {
