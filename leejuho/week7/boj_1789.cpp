@@ -3,7 +3,7 @@
 #include <algorithm>
 #include <string>
 using namespace std;
-
+//
 int main(){
     long n; 
     cin >> n; 
