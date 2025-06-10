@@ -1,0 +1,5 @@
+﻿  18258.c
+C:\Users\user\Desktop\정준서\github\nestnet_algorithm_2025_1\jeongjunseo\week3\week3\18258.c(40,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\정준서\github\nestnet_algorithm_2025_1\jeongjunseo\week3\week3\18258.c(47,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\정준서\github\nestnet_algorithm_2025_1\jeongjunseo\week3\week3\18258.c(49,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  week3.vcxproj -> C:\Users\user\Desktop\정준서\github\nestnet_algorithm_2025_1\jeongjunseo\week3\x64\Debug\week3.exe

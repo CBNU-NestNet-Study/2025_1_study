@@ -1,0 +1,4 @@
+﻿  11053.c
+C:\Users\user\Desktop\jeongjunseo\nestnet_algorithm_2025_1\jeongjunseo\week5\week5\11053.c(5,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\jeongjunseo\nestnet_algorithm_2025_1\jeongjunseo\week5\week5\11053.c(7,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  week5.vcxproj -> C:\Users\user\Desktop\jeongjunseo\nestnet_algorithm_2025_1\jeongjunseo\week5\x64\Debug\week5.exe

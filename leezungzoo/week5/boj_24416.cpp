@@ -33,5 +33,4 @@ int main() {
     fibonacci(n, code2_count); 
 
     cout << code1_count << " " << code2_count << endl;
-    cout << code2_count << " " <<code2_count << endl;
 }
