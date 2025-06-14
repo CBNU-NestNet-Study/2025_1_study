@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\jeongjunseo\\2025_1_study\\jeongjunseo\\week8\\week8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76ADCDB7-6352-48E5-B17C-E89FB3DA6D09}|week8\\week8.vcxproj|C:\\Users\\user\\Desktop\\jeongjunseo\\2025_1_study\\jeongjunseo\\week8\\week8\\week8\\boj24444.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76ADCDB7-6352-48E5-B17C-E89FB3DA6D09}|week8\\week8.vcxproj|solutionrelative:week8\\boj24444.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ADCDB7-6352-48E5-B17C-E89FB3DA6D09}|week8\\week8.vcxproj|C:\\Users\\user\\Desktop\\jeongjunseo\\2025_1_study\\jeongjunseo\\week8\\week8\\week8\\boj24479.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76ADCDB7-6352-48E5-B17C-E89FB3DA6D09}|week8\\week8.vcxproj|solutionrelative:week8\\boj24479.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "boj24444.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\jeongjunseo\\2025_1_study\\jeongjunseo\\week8\\week8\\week8\\boj24444.c",
+              "RelativeDocumentMoniker": "week8\\boj24444.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\jeongjunseo\\2025_1_study\\jeongjunseo\\week8\\week8\\week8\\boj24444.c",
+              "RelativeToolTip": "week8\\boj24444.c",
+              "ViewState": "AgIAADAAAAAAAAAAAAAIwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-14T20:55:25.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "boj24479.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\jeongjunseo\\2025_1_study\\jeongjunseo\\week8\\week8\\week8\\boj24479.c",
+              "RelativeDocumentMoniker": "week8\\boj24479.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\jeongjunseo\\2025_1_study\\jeongjunseo\\week8\\week8\\week8\\boj24479.c",
+              "RelativeToolTip": "week8\\boj24479.c",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-14T20:54:58.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
