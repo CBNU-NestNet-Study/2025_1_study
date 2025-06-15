@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/leezungzoo/Desktop/소웨5월/nestnetalgorithm/2025_1_study/leezungzoo/week7",
+      "program": "/Users/leezungzoo/Desktop/소웨5월/nestnetalgorithm/2025_1_study/leezungzoo/week7/build/Debug/outDebug"
+    }
+  ]
+}
